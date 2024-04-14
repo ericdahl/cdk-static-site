@@ -1,0 +1,3 @@
+- get 404 redirect working
+- Lambda @ Edge demo?
+- 
